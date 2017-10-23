@@ -1,0 +1,16 @@
+{
+  "name": "grunt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ical47",
+  "license": "ISC",
+  "dependencies": {
+    "grunt-ts": "^6.0.0-beta.16",
+    "typescript": "^2.5.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
